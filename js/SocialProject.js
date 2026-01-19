@@ -16,7 +16,7 @@ const socialItems = [
     extra: "Frequenza di pubblicazione: 3 volte a settimana + Story quotidiane (alternando post, reel e caroselli)",
     extra2: "Social utilizzati: Facebook, Instagram e Tiktok",
     imgDesktop: "src/DracarysMockup.png",
-    imgMobile: "src/DracarysMockupB.png",
+    imgMobile: "src/DracarysMobile.png",
     alt: "anteprima gestione pagina Instagram Dracarys",
     classes: { mobile: "bg-menu text-clight", desktop: "bg-menu text-clight change-img" }
   },
@@ -31,11 +31,11 @@ const socialItems = [
   },
   {
     title: "Area Italia",
-    description: "Per il progetto di Introduzione al social media management, io e il mio gruppo abbiamo dovuto ideare un’attività per cui realizzare un piano social. La nostra idea si basava su un pub che mette a disposizione dei propri clienti dei giochi da tavolo, organizzando periodicamente tornei ed eventi a tema. Partendo dall’analisi dei competitor e la definizione di un identità aziendale, abbiamo definito i contenuti, le rubriche e gli argomenti per i post, con cui abbiamo realizzato e gestito un piano editoriale coerente e completo. Le date di pubblicazione sono state definite in base agli eventi organizzati all'interno del locale, concentrate principalmente nei weekend.",
+    description: "Area Italia si occupa dell’installazione di sistemi di antifurto e vigilanza per ponteggi. La strategia di comunicazione social è stata progettata per un pubblico adulto, potenzialmente interessato alle tematiche della sicurezza, affrontate in modo accessibile e informativo, senza ricorrere a testi eccessivamente tecnici o poco chiari. Il piano editoriale prevede un’alternanza di fotografie degli impianti installati, curiosità legate al mondo della sicurezza e post dal tono ironico, in dialogo con il materiale di comunicazione offline dell’azienda, che richiamano la figura degli anziani come osservatori attenti e “controllori” dei cantieri.",
     extra: "Frequenza di pubblicazione: 3 volte a settimana + Story quotidiane (alternando post, reel e caroselli)",
     extra2: "Social utilizzati: Facebook e Instagram",
-    imgDesktop: "src/DracarysMockup.png",
-    imgMobile: "src/DracarysMockupB.png",
+    imgDesktop: "src/AreaItaliaMockup.png",
+    imgMobile: "src/AreaItaliaMockupB.png",
     alt: "anteprima gestione pagina Instagram Area Italia",
     classes: { mobile: "bg-menu text-clight", desktop: "bg-menu text-clight change-img" }
   }
