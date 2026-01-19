@@ -56,18 +56,25 @@ const contenitore = document.getElementById("web-design-list");
 
 function renderWebDesign(items) {
   contenitore.innerHTML = items.map((item, index) => `
-  <!-- MOBILE -->
-<div class="web-design mt-5 ${item.classes.mobile} rounded-4 pt-4 d-block d-md-none mb-5 mobile-box" data-index="${index}">
+    
+<!-- MOBILE -->
+<div class="web-design mt-5 ${item.classes.mobile} rounded-4 pt-4 d-block d-md-none mb-5 mobile-box">
   <h2 class="reduce-font mb-3">${item.title}</h2>
+
   <div class="flip-card rounded-4 p-3 bg-transparent">
     <div class="flip-card-inner">
-    <div class="flip-card-front rounded-4">
+      
+      <div class="flip-card-front rounded-4">
         <img src="${item.imgMobile}" alt="${item.alt}" width="100%">
       </div>
+
       <div class="flip-card-back rounded-4 bg-menu p-3">
-        <p class="text-clight text-start">${item.description}
-        ${item.extra ? `<br><br><span class="fst-italic">${item.extra}</span>` : ""}</p>
+        <p class="text-clight text-start">
+          ${item.description}
+          ${item.extra ? `<br><br><span class="fst-italic">${item.extra}</span>` : ""}
+        </p>
       </div>
+
     </div>
   </div>
 </div>
@@ -75,7 +82,6 @@ function renderWebDesign(items) {
 <!-- DESKTOP -->
 <div class="web-design contenitore text-left d-none d-md-block ${item.classes.desktop} rounded-4 pt-4 mb-5">
   <div class="row align-items-center ${index % 2 !== 0 ? "flex-row-reverse" : ""}">
-    
     <div class="col-5 p-4">
       <h2 class="reduce-font mb-4">${item.title}</h2>
       <p>
@@ -84,39 +90,15 @@ function renderWebDesign(items) {
       </p>
     </div>
 
-    <div class="col-7 m-0">
+    <div class="col-7">
       <img src="${item.imgDesktop}" alt="${item.alt}" width="100%">
     </div>
-
   </div>
 </div>
-<button id="backToTop" title="Torna su" class="p-0 box-shadow rounded-4"><img src="./src/arrowT.png" alt="freccia in su" width="100%" class="rounded-4"></button>
 
 `).join("");
 
-// TOGGLE solo MOBILE dopo il render
-document.querySelectorAll(".mobile-box").forEach(box => {
-    box.addEventListener("click", () => {
-      const desc = box.querySelector(".mobile-description");
-      // toggle display
-      if(desc.style.display === "none") {
-        desc.style.display = "block";
-      } else {
-        desc.style.display = "none";
-      }
-      box.classList.toggle("expanded");
-    });
-  });
-
-  // TOGGLE solo MOBILE dopo il render
-document.querySelectorAll(".mobile-box").forEach(box => {
-  box.addEventListener("click", () => {
-    box.classList.toggle("expanded");
-  });
-});
-
-
+  initMobileFlip();
 }
 
-// Renderizza
 renderWebDesign(webDesignItems);
