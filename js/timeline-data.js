@@ -8,7 +8,7 @@ const timeline = [
     description: `
       In questi 3 anni ho curato la creazione di
       <strong>contenuti statici e dinamici</strong>
-      per le pagine Instagram e Facebook dell’azienda,
+      per le pagine Instagram e Facebook dell&#39;azienda,
       ideando nuovi format e aggiornando periodicamente
       lo stile delle pagine.
     `
@@ -21,13 +21,13 @@ const timeline = [
     subtitle: "Agenzia di comunicazione",
     extra: "(tirocinio universitario)",
     description: `
-      Durante l’esperienza di tirocinio ho svolto una
+      Durante l&#39;esperienza di tirocinio ho svolto una
       funzione di supporto alla stesura del piano editoriale,
       passando dal <strong>benchmarking</strong> alla
       creazione di <strong>contenuti social</strong> e
       attività di <strong>copywriting</strong> per la cura 
-      del sito web dei clienti dell’agenzia (odontoiatri, 
-      fisioterapisti, agenzie immobiliari, designer d’interni). 
+      del sito web dei clienti dell&#39;agenzia (odontoiatri, 
+      fisioterapisti, agenzie immobiliari, designer d&#39;interni). 
     `
   },
     {
@@ -38,7 +38,7 @@ const timeline = [
     subtitle: "Settore edilizio",
     description: `
         In questo lavoro ho gestito e pianificato le strategie di 
-        marketing online e offline dell’azienda, realizzandone le 
+        marketing online e offline dell&#39;azienda, realizzandone le 
         <strong>grafiche</strong> e il <strong>copy</strong>, la 
         diffusione e il tone of voice. Ho inoltre definito il 
         <strong>design del sito web</strong> e in seguito la sua 
@@ -54,21 +54,21 @@ const timeline = [
     extra: "(tirocinio)",
     description: `
         Durante il tirocinio ho potuto definire il <strong>design del 
-        sito web</strong> dell’azienda per poi <strong>realizzarlo</strong> 
+        sito web</strong> dell&#39;azienda per poi <strong>realizzarlo</strong> 
         tramite HTML, CSS e Javascript. Ho poi definito una strategia social 
         portata avanti dalla realizzazione di <strong>contenuti per Instagram 
         e Facebook, sponsorizzati tramite Meta Business Suite e Google Ads</strong>.     `
     },
     {
     img: "./src/alveare.png",
-    alt: "anteprima post L'ALveare che dice Sì",
+    alt: "anteprima post L&#39;ALveare che dice Sì",
     period: "Settembre 2025 - Novembre 2025",
-    title: "L'Alveare che dice Sì",
+    title: "L&#39;Alveare che dice Sì",
     subtitle: "E-commerce alimentare",
     extra: "(tirocinio universitario)",
     description: `
-        L’esperienza di tirocinio mi ha permesso di stendere un <strong>piano 
-        editoriale</strong> completo e coerente per l’azienda, ponendo l’attenzione 
+        L&#39;esperienza di tirocinio mi ha permesso di stendere un <strong>piano 
+        editoriale</strong> completo e coerente per l&#39;azienda, ponendo l&#39;attenzione 
         sulla questione della sostenibilità e cercando di diffondere un messaggio di 
         sensibilizzazione alimentare attraverso la realizzazione di <strong>contenuti 
         social</strong>. 

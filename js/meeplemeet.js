@@ -2,22 +2,22 @@ class MeepleMeet extends HTMLElement {
   connectedCallback() {
     this.innerHTML = `
             <div class="border-box rounded-4 m-lg-5 m-2 p-4 mt-5 mt-lg-0">
-                <h2>L'idea</h2>
+                <h2>L&#39;idea</h2>
                 <div class="row mt-4 align-items-center">
                     <div class="col-lg-3 col-md-3 rounded-4">
                         <img src="./src/logo.png" alt="logo MeepleMeet" width="100%" class="rounded-4">
                     </div>
-                    <p class="col-lg-9 col-md-9 mt-lg-0 mt-3 text-center text-lg-left">MeepleMeet nasce con l’esigenza di riunire in un’unica piattaforma bar, locali e 
+                    <p class="col-lg-9 col-md-9 mt-lg-0 mt-3 text-center text-lg-left">MeepleMeet nasce con l&#39;esigenza di riunire in un&#39;unica piattaforma bar, locali e 
                         appassionati di giochi da tavolo, per rendere immediata la ricerca di luoghi che organizzano eventi 
                         tematici e mettono a disposizione degli utenti la possibilità di giocare.</p>
                 </div>
             </div>
             <div class="border-box rounded-4 m-lg-5 m-2 p-4 mt-5 mt-lg-0">
-                <h2>L'indagine</h2>
+                <h2>L&#39;indagine</h2>
                 <div class="row mt-4 align-items-center">
                     <p class="col-lg-5 col-md-5 text-center text-lg-left">Prima di procedere con lo sviluppo e il pensiero di MeepleMeet, 
                             realizzato un sondaggio, per capire se ci potesse essere un effettivo interesse 
-                            nell’applicazione e quali feature includere. Da qui abbiamo quindi ricavato diverse 
+                            nell&#39;applicazione e quali feature includere. Da qui abbiamo quindi ricavato diverse 
                             informazioni che ci hanno condotto allo sviluppo di funzionalità specifiche per bar, 
                             utenti e per permettere maggiore socializzazione tramite minigiochi.
                     </p>

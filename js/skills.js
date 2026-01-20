@@ -21,13 +21,13 @@ const skills = [
     img: "./src/adobe_premiere_16368.png",
     name: "Adobe<br>Premiere<br>Pro",
     stars: 3,
-    description: "Software di montaggio video che permette di modificare clip, aggiungere effetti visivi e sonori, creare titoli animati e gestire l'audio."
+    description: "Software di montaggio video che permette di modificare clip, aggiungere effetti visivi e sonori, creare titoli animati e gestire l&#39;audio."
   },
   {
     img: "./src/html.webp",
     name: "HTML,<br>CSS,<br>JavaScript",
     stars: 4,
-    description: "Strumenti essenziali per lo sviluppo web front-end per definire la struttura, lo stile, il design e l'interattività e dinamicità."
+    description: "Strumenti essenziali per lo sviluppo web front-end per definire la struttura, lo stile, il design e l&#39;interattività e dinamicità."
   },
   {
     img: "./src/meta.png",

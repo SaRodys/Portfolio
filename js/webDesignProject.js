@@ -10,7 +10,7 @@ const webDesignItems = [
   },
   {
     title: "Area Italia",
-    description: "Area Italia è un’azienda che si occupa di installare sistemi di allarme e videosorveglianza sui ponteggi. I valori da trasmettere sono affidabilità, serietà ed esperienza, motivo per cui per realizzre il sito web ho scelto uno stile lineare, semplice e professionale. La struttura geometrica regolare  su sfondo bianco trasmette rigidità e chiarezza, riprendendo la professionalità e la precisione dei servizi offerti.",
+    description: "Area Italia è un&#39;azienda che si occupa di installare sistemi di allarme e videosorveglianza sui ponteggi. I valori da trasmettere sono affidabilità, serietà ed esperienza, motivo per cui per realizzre il sito web ho scelto uno stile lineare, semplice e professionale. La struttura geometrica regolare  su sfondo bianco trasmette rigidità e chiarezza, riprendendo la professionalità e la precisione dei servizi offerti.",
     imgDesktop: "src/Frame 2.png",
     imgMobile: "src/Frame 2b.png",
     alt: "moodboard web design Area Italia",
@@ -18,7 +18,7 @@ const webDesignItems = [
   },
   {
     title: "Allarme Casa",
-    description: "Allarme Casa è un’azienda specializzata nella sicurezza, offrendo servizi di antifurti, sistemi di videosorveglianza e portoni blindati.Il rosso è alla base della palette di colori per richiamare il senso di urgenza e, nella sua tonalità scura, evocare sicurezza e affidabilità.Le forme regolari, spigolose e geometriche veicolano valori di precisione e attenzione. La compattezza dei pulsanti e la semplicità della struttura rendono i testi più chiari e facilitano la navigazione.",
+    description: "Allarme Casa è un&#39;azienda specializzata nella sicurezza, offrendo servizi di antifurti, sistemi di videosorveglianza e portoni blindati.Il rosso è alla base della palette di colori per richiamare il senso di urgenza e, nella sua tonalità scura, evocare sicurezza e affidabilità.Le forme regolari, spigolose e geometriche veicolano valori di precisione e attenzione. La compattezza dei pulsanti e la semplicità della struttura rendono i testi più chiari e facilitano la navigazione.",
     imgDesktop: "src/Frame 3.png",
     imgMobile: "src/Frame 3b.png",
     alt: "moodboard web design Allarme Casa",
@@ -26,7 +26,7 @@ const webDesignItems = [
   },
   {
     title: "Gruppo Petrà",
-    description: "Il Gruppo Petrà opera nel settore della produzione di serramenti in alluminio e PVC. Mi sono occupata della progettazione del design del sito web, partendo dalla palette cromatica e dallo stile geometrico definiti dalla visual identity aziendale, per poi sviluppare una piattaforma dinamica, minimale e dal linguaggio visivo professionale. La scelta di un tema scuro e l’utilizzo della forma esagonale richiamano i valori della brand identity, che mira a integrare un design elegante con la funzionalità e l’affidabilità di serramenti di alta qualità.",
+    description: "Il Gruppo Petrà opera nel settore della produzione di serramenti in alluminio e PVC. Mi sono occupata della progettazione del design del sito web, partendo dalla palette cromatica e dallo stile geometrico definiti dalla visual identity aziendale, per poi sviluppare una piattaforma dinamica, minimale e dal linguaggio visivo professionale. La scelta di un tema scuro e l&#39;utilizzo della forma esagonale richiamano i valori della brand identity, che mira a integrare un design elegante con la funzionalità e l&#39;affidabilità di serramenti di alta qualità.",
     imgDesktop: "src/Frame 1.png",
     imgMobile: "src/Frame 1b.png",
     alt: "moodboard web design Gruppo Petrà",
@@ -34,7 +34,7 @@ const webDesignItems = [
   },
 {
     title: "Home Garden 2.0",
-    description: "Home Garden 2.0 è l’evoluzione della versione precedente, che da semplice blog diventa un e-commerce per l’acquisto online di piante. La palette di colori conserva i richiami naturalistici, ma con toni più scuri per un’estetica più elegante e per suscitare un’atmosfera rilassante. Il passaggio a e-shop richiede un tono più serio, volto a comunicare affidabilità e professionalità all’utente, motivo per cui sono stati rimosse le illustrazioni e i segni grafici.",
+    description: "Home Garden 2.0 è l&#39;evoluzione della versione precedente, che da semplice blog diventa un e-commerce per l&#39;acquisto online di piante. La palette di colori conserva i richiami naturalistici, ma con toni più scuri per un&#39;estetica più elegante e per suscitare un&#39;atmosfera rilassante. Il passaggio a e-shop richiede un tono più serio, volto a comunicare affidabilità e professionalità all&#39;utente, motivo per cui sono stati rimosse le illustrazioni e i segni grafici.",
     extra: "Progetto realizzato durante il Master in Digital Communication Design.",
     imgDesktop: "src/Frame 5.png",
     imgMobile: "src/Frame 5b.png",
@@ -43,7 +43,7 @@ const webDesignItems = [
   },
   {
     title: "Food Finder",
-    description: "Per un progetto JavaScript ho realizzato un piccolo programma che permette di visualizzare gli ingredienti di alcune ricette e di filtrare i piatti in base ad allergie o intolleranze.Il progetto è pensato per un pubblico di bambini, con l’obiettivo di rendere la scelta dei piatti più piacevole e divertente.  La palette di colori richiama la rusticità dei menù delle trattorie, abbinata a font che ricordano la scrittura corsvia manuale, per enfatizzare un tratto giocoso coerente con il target di riferimento.",
+    description: "Per un progetto JavaScript ho realizzato un piccolo programma che permette di visualizzare gli ingredienti di alcune ricette e di filtrare i piatti in base ad allergie o intolleranze.Il progetto è pensato per un pubblico di bambini, con l&#39;obiettivo di rendere la scelta dei piatti più piacevole e divertente.  La palette di colori richiama la rusticità dei menù delle trattorie, abbinata a font che ricordano la scrittura corsvia manuale, per enfatizzare un tratto giocoso coerente con il target di riferimento.",
     extra: "Progetto realizzato durante il Master in Digital Communication Design.",
     imgDesktop: "src/Frame 6.png",
     imgMobile: "src/Frame 6b.png",

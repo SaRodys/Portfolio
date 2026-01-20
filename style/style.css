@@ -298,8 +298,17 @@ video {
   transform: scale(1.1);
 }
 
+.copertina-video:hover {
+    opacity: 0.5;
+}
 
-
+.play {
+    background-color: white;
+    position: absolute;
+    top: 30%;
+    left:40%;
+    z-index: 100;
+}
 
 
 
@@ -398,6 +407,13 @@ video {
         margin-top: 4%;
     }
 
+    .play {
+        background-color: white;
+        position: absolute;
+        top: 40%;
+        left:45%;
+        z-index: 100;
+    }
 }
 
 

@@ -3,7 +3,7 @@ const formazioni = [
     anno: "2020",
     titolo: "Diploma Istituto Tecnico Commerciale",
     votazione: "100/100",
-    istituto: "Istituto d'Istruzione Superiore Alberti di Bormio (SO)"
+    istituto: "Istituto d&#39;Istruzione Superiore Alberti di Bormio (SO)"
   },
   {
     anno: "2024",

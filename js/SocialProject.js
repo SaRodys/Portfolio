@@ -1,7 +1,7 @@
 const socialItems = [
   {
     title: "Tenuta Collotta",
-    description: "Per l’azienda agricola Tenuta Collotta ho gestito e realizzato le grafiche social per circa 3 anni. Il cliente richiedeva la realizzazione di grafiche che mostrassero i prodotti venduti, attraverso ricette, consigli o informazioni sulla loro composizione e produzione. Non richiedeva una sponsorizzazione tramite meta business suite, ma solamente la stesura e il rispetto di un piano editoriale coerente e funzionale.",
+    description: "Per l&#39;azienda agricola Tenuta Collotta ho gestito e realizzato le grafiche social per circa 3 anni. Il cliente richiedeva la realizzazione di grafiche che mostrassero i prodotti venduti, attraverso ricette, consigli o informazioni sulla loro composizione e produzione. Non richiedeva una sponsorizzazione tramite meta business suite, ma solamente la stesura e il rispetto di un piano editoriale coerente e funzionale.",
     extra: "Frequenza di pubblicazione: 1 volta a settimana (alternando post, reel e caroselli)",
     extra2: "Social utilizzati: Facebook e Instagram",
     imgDesktop: "src/CollottaMockup.png",
@@ -11,7 +11,7 @@ const socialItems = [
   },
   {
     title: "Dracarys",
-    description: "Per il progetto di Introduzione al social media management, io e il mio gruppo abbiamo dovuto ideare un’attività per cui realizzare un piano social. La nostra idea si basava su un pub che mette a disposizione dei propri clienti dei giochi da tavolo, organizzando periodicamente tornei ed eventi a tema. Partendo dall’analisi dei competitor e la definizione di un identità aziendale, abbiamo definito i contenuti, le rubriche e gli argomenti per i post, con cui abbiamo realizzato e gestito un piano editoriale coerente e completo. Le date di pubblicazione sono state definite in base agli eventi organizzati all'interno del locale, concentrate principalmente nei weekend.",
+    description: "Per il progetto di Introduzione al social media management, io e il mio gruppo abbiamo dovuto ideare un&#39;attività per cui realizzare un piano social. La nostra idea si basava su un pub che mette a disposizione dei propri clienti dei giochi da tavolo, organizzando periodicamente tornei ed eventi a tema. Partendo dall&#39;analisi dei competitor e la definizione di un identità aziendale, abbiamo definito i contenuti, le rubriche e gli argomenti per i post, con cui abbiamo realizzato e gestito un piano editoriale coerente e completo. Le date di pubblicazione sono state definite in base agli eventi organizzati all&#39;interno del locale, concentrate principalmente nei weekend.",
     info: "Progetto realizzato durante il master in digital communication design - In collaborazione con Lorenzo Osella, Sara  Potenza, Valentina Raschia",
     extra: "Frequenza di pubblicazione: 3 volte a settimana + Story quotidiane (alternando post, reel e caroselli)",
     extra2: "Social utilizzati: Facebook, Instagram e Tiktok",
@@ -22,27 +22,27 @@ const socialItems = [
   },
   {
     title: "Ryanair",
-    description: "Per il progetto di Strumenti e metodi di interazione nei Social media, abbiamo dovuto analizzare nel profondo il caso studio di un’azienda a scelta. Io e la mia collega abbiamo deciso di prendere come riferimento in caso Ryanair, attirate dalla sua gestione ironica e coinvolgente dei social. Abbiamo analizzato come prima cosa le performance del sito web, attraverso statistiche quali i refferral link e le visite medie mensili. Successivamente abbiamo valutato l’engagement rate, il numero di follower e le performance medie confrontandole con i competitor presenti sul mercato, quali Wizzair e  EasyJet.",
+    description: "Per il progetto di Strumenti e metodi di interazione nei Social media, abbiamo dovuto analizzare nel profondo il caso studio di un&#39;azienda a scelta. Io e la mia collega abbiamo deciso di prendere come riferimento in caso Ryanair, attirate dalla sua gestione ironica e coinvolgente dei social. Abbiamo analizzato come prima cosa le performance del sito web, attraverso statistiche quali i refferral link e le visite medie mensili. Successivamente abbiamo valutato l&#39;engagement rate, il numero di follower e le performance medie confrontandole con i competitor presenti sul mercato, quali Wizzair e  EasyJet.",
     info: "Progetto realizzato durante il master in digital communication design - In collaborazione con Valentina Raschia",
     imgDesktop: "src/Ryanair.png",
     imgMobile: "src/RyanairB.png",
-    alt: "slide illustrative dell'analisi social di Ryanair",
+    alt: "slide illustrative dell&#39;analisi social di Ryanair",
     classes: { mobile: "border-box", desktop: "border-box" }
   },
   {
-    title: "L'Alveare che dice Sì",
-    description: "Durante il percorso di tirocinio svolto presso L’Alveare che dice Sì, ho avuto l’opportunità di collaborare alla gestione dei profili social dell’azienda. Dopo una prima fase dedicata alla progettazione e realizzazione delle grafiche, mi sono occupata della stesura del piano editoriale, strutturando i contenuti in modo da integrare la dimensione umana del progetto con informazioni e attività di sensibilizzazione sui temi della sostenibilità, centrali per l’identità dell’azienda. Alla produzione di caroselli e post si è affiancata la realizzazione di video e interviste, successivamente montati e adattati ai diversi formati delle piattaforme social.",
+    title: "L&#39;Alveare che dice Sì",
+    description: "Durante il percorso di tirocinio svolto presso L&#39;Alveare che dice Sì, ho avuto l&#39;opportunità di collaborare alla gestione dei profili social dell&#39;azienda. Dopo una prima fase dedicata alla progettazione e realizzazione delle grafiche, mi sono occupata della stesura del piano editoriale, strutturando i contenuti in modo da integrare la dimensione umana del progetto con informazioni e attività di sensibilizzazione sui temi della sostenibilità, centrali per l&#39;identità dell&#39;azienda. Alla produzione di caroselli e post si è affiancata la realizzazione di video e interviste, successivamente montati e adattati ai diversi formati delle piattaforme social.",
     info: "Progetto realizzato durante il tiocinio per il master in digital communication design",
     extra: "Frequenza di pubblicazione: 3 volte a settimana (alternando post, reel e caroselli)",
     extra2: "Social utilizzati: Facebook e Instagram",
     imgDesktop: "src/AlveareMockup.png",
     imgMobile: "src/AlveareMockupB.png",
-    alt: "anteprima pagina Instagram de L'Alveare che Dice Sì",
+    alt: "anteprima pagina Instagram de L&#39;Alveare che Dice Sì",
     classes: { mobile: "bg-menu text-clight", desktop: "bg-menu text-clight change-img" }
   },
   {
     title: "Area Italia",
-    description: "Area Italia si occupa dell’installazione di sistemi di antifurto e vigilanza per ponteggi. La strategia di comunicazione social è stata progettata per un pubblico adulto, potenzialmente interessato alle tematiche della sicurezza, affrontate in modo accessibile e informativo, senza ricorrere a testi eccessivamente tecnici o poco chiari. Il piano editoriale prevede un’alternanza di fotografie degli impianti installati, curiosità legate al mondo della sicurezza e post dal tono ironico, in dialogo con il materiale di comunicazione offline dell’azienda, che richiamano la figura degli anziani come osservatori attenti e “controllori” dei cantieri.",
+    description: "Area Italia si occupa dell&#39;installazione di sistemi di antifurto e vigilanza per ponteggi. La strategia di comunicazione social è stata progettata per un pubblico adulto, potenzialmente interessato alle tematiche della sicurezza, affrontate in modo accessibile e informativo, senza ricorrere a testi eccessivamente tecnici o poco chiari. Il piano editoriale prevede un&#39;alternanza di fotografie degli impianti installati, curiosità legate al mondo della sicurezza e post dal tono ironico, in dialogo con il materiale di comunicazione offline dell&#39;azienda, che richiamano la figura degli anziani come osservatori attenti e “controllori” dei cantieri.",
     extra: "Frequenza di pubblicazione: 3 volte a settimana + Story quotidiane (alternando post, reel e caroselli)",
     extra2: "Social utilizzati: Facebook e Instagram",
     imgDesktop: "src/AreaItaliaMockup.png",
