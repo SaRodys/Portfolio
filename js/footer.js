@@ -40,8 +40,8 @@ class FooterBar extends HTMLElement {
             </div>
         </div>
 
-        <h6 class="bg-menu text-clight col-12 alternative-font">© 2025 - Sara Rodigari - Tutti i diritti riservati</h6>
-        <h6 class="bg-menu text-clight col-12 alternative-font">Sito web realizzato da Sara Rodigari</h6>
+        <h6 class="text-clight col-12 alternative-font min-width">© 2025 - Sara Rodigari - Tutti i diritti riservati</h6>
+        <h6 class="text-clight col-12 alternative-font min-width">Sito web realizzato da Sara Rodigari</h6>
       </footer>
     `;
   }
