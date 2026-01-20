@@ -12,8 +12,8 @@ const marketingStrategyItems = [
     title: "Obbi",
     description: "Per il lancio di Obbi sul mercato è stata progettata una landing page, accompagnata da una strategia SEO e dalla definizione di keyword ed headlines mirate per la sponsorizzazione tramite Google Ads. L&#39;applicazione, pensata per organizzare attività di gruppo basate su hobby e interessi comuni, nasce con una strategia social già definita, sulla quale è stata costruita l&#39;identità web del progetto.La scelta delle parole chiave si concentra sugli aspetti sociali dell&#39;esperienza e sulla condivisione degli hobby tra persone con passioni affini e una vicinanza territoriale. Particolare attenzione è stata riservata alla progettazione della landing page e alla selezione di titoli e descrizioni che escludessero esplicitamente la componente romantica, distinguendo Obbi dalle app di incontri tradizionali e valorizzandone l&#39;obiettivo di creare connessioni basate su interessi condivisi.",
     extra: "Progetto realizzato durante il master indigital communication design - In collaborazione con Lorenzo Osella, Sara Potenza, Valentina Raschia",
-    imgDesktop: "src/Obbi.png",
-    imgMobile: "src/Obbi2.png",
+    imgDesktop: "src/ObbiProject.png",
+    imgMobile: "src/ObbiProject2.png",
     alt: "workflow Obbi",
     classes: { mobile: "bg-menu text-clight", desktop: "bg-menu text-clight change-img" }
   }
