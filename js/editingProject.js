@@ -10,7 +10,7 @@ const editingStetegyItem = [
     title: "Emotional Patchwork",
     description: "Per corso di Regia video della facoltà di Discipline delle Arti, della Musica e dello Spettacolo, io e la mia collega abbiamo realizzato un video incentrato sul tema delle emozioni e sul modo in cui esse vengono espresse attraverso l’abbigliamento. Una rivisitazione in chiave moderna di questo concetto ha portato alla rappresentazione di diverse emozioni, ciascuna associata a una specifica palette cromatica e a uno stile di vestiario definito. Nel video le emozioni emergono gradualmente, seguendo il crescendo di una musica ritmata che tende ad accelerare nel tempo, accompagnando la crescita emotiva fino al raggiungimento di un apice. Da qui le emozioni convergono, si amplificano ed esplodono, diventando incontrollabili. All’interno del progetto mi sono occupata della co-sceneggiatura, della regia, della gestione della camera e del montaggio video.",
     extra: "Progetto realizzato durante l'università per il corso di Regia Video - In collaborazione con Aurora Currà",
-    video: "src/Emotion-patchwork1.mp4",
+    video: "src/Regiavideo.mp4",
     desktop: "bg-menu text-clight",
 
   }
