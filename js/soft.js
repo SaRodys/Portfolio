@@ -40,7 +40,7 @@ softskillsSection.innerHTML = `
       <div class="row pl-1 pr-1 justify-content-center">
         ${softskills.map(softskil => `
 <div class="col-6 text-center mt-4">
-  <div class="row justify-content-center">
+  <div class="row justify-content-center align-items-center">
     <div class="col-5 col-lg-3">
       <img class="img-fluid rounded-circle mb-2 softskill-img" src="${softskil.img}" alt="${softskil.alt}">
     </div>

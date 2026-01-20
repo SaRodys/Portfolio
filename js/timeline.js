@@ -5,10 +5,10 @@ document.addEventListener("DOMContentLoaded", () => {
     container.innerHTML += `
       <div class="col-12 col-lg-4 lineaTempo pb-5 align-self-center align-self-lg-start">
         <div class="row align-items-center mt-lg-4">
-          <div class="col-4 col-md-3">
+          <div class="col-4 col-md-3 col-lg-6">
             <img class="rounded" src="${item.img}" alt="${item.alt}" width="100%">
           </div>
-          <div class="col-8 ml-0 p-0">
+          <div class="col-8 ml-0 p-0 col-lg-6">
             <p>
               <span class="sottotesto">${item.period}</span><br>
               <strong>${item.title}</strong><br>
