@@ -16,7 +16,7 @@ class FooterBar extends HTMLElement {
             <a href="https://www.linkedin.com/in/sara-rodigari-7a56712bb/" class="text-clight footerhover">Linkedin: Sara Rodigari</a>
         </div>
 
-        <div class="bg-menu mb-5 col-12 col-lg-4 text-lg-center">
+        <div class="bg-menu mb-2 col-12 col-lg-4 text-lg-center">
             <h2 class="bg-menu text-clight p-lg-4 reduce-font alternative-font">Portfolio</h2>
 
             <div class="container">
@@ -40,7 +40,12 @@ class FooterBar extends HTMLElement {
             </div>
         </div>
 
-        <h6 class="text-clight col-12 alternative-font min-width">© 2025 - Sara Rodigari - Tutti i diritti riservati</h6>
+        <div class=""text-center text-clight p-0">
+            <a href="https://www.iubenda.com/privacy-policy/33905104" class="iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe text-clight text-decoration-underline" title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+            <a href="https://www.iubenda.com/privacy-policy/33905104/cookie-policy" class="iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe text-clight text-decoration-underline" title="Cookie Policy ">Cookie Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>            <script type="text/javascript" src="https://embeds.iubenda.com/widgets/25c86d48-6ce6-4708-bb5c-5c0d13e73655.js"></script>
+        </div>
+
+        <h6 class="text-clight col-12 alternative-font min-width mt-3">© 2025 - Sara Rodigari - Tutti i diritti riservati</h6>
         <h6 class="text-clight col-12 alternative-font min-width">Sito web realizzato da Sara Rodigari</h6>
       </footer>
     `;
