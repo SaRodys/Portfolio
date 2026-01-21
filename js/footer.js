@@ -4,16 +4,16 @@ class FooterBar extends HTMLElement {
       <footer class="bg-menu p-4 justify-content-center text-center row m-0">
         <div class="bg-menu mt-5 mb-5 col-12 col-lg-4 text-lg-center m-lg-0 ">
             <h2 class="bg-menu text-clight p-lg-4 reduce-font alternative-font">Contatti</h2>
-            <a href="mailto:sararodigari01@gmail.com" class="text-clight footerhover">sararodigari01@gmail.com</a>
+            <a href="mailto:sararodigari01@gmail.com" aria-label="Apri il software di posta per scrivere una mail" class="text-clight footerhover">sararodigari01@gmail.com</a>
             <br>
-            <a href="tel:+393486918180" class="text-clight footerhover">+39 348 691 8180</a>
+            <a href="tel:+393486918180" aria-label="Apri il registro chiamate" class="text-clight footerhover">+39 348 691 8180</a>
         </div>
 
         <div class="bg-menu mb-5 col-12 col-lg-4 text-lg-center border-lg-start border-lg-end pb-lg-5">
             <h2 class="bg-menu text-clight p-lg-4 reduce-font alternative-font">Social</h2>
-            <a href="https://www.instagram.com/rodys__/" class="text-clight footerhover">Instagram: rodys__</a>
+            <a href="https://www.instagram.com/rodys__/" aria-label="Visita la pagina Instagram di Sara Rodigari" class="text-clight footerhover">Instagram: rodys__</a>
             <br>
-            <a href="https://www.linkedin.com/in/sara-rodigari-7a56712bb/" class="text-clight footerhover">Linkedin: Sara Rodigari</a>
+            <a href="https://www.linkedin.com/in/sara-rodigari-7a56712bb/" aria-label="Visita la pagina Linkedin di Sara Rodigari" class="text-clight footerhover">Linkedin: Sara Rodigari</a>
         </div>
 
         <div class="bg-menu mb-2 col-12 col-lg-4 text-lg-center">
@@ -22,27 +22,27 @@ class FooterBar extends HTMLElement {
             <div class="container">
                 <div class="row bg-menu">
                     <div class="col-6 col-md-3 col-lg-6 bg-menu p-0">
-                        <a href="index.html" class="text-clight footerhover">home</a>
+                        <a href="index.html" aria-label="Visita la pagina home" class="text-clight footerhover">home</a>
                     </div>
 
                     <div class="col-6 col-md-3 col-lg-6 bg-menu p-0">
-                        <a href="about.html" class="text-clight footerhover">chi sono</a>
+                        <a href="about.html" aria-label="Visita la pagina 'chi sono'" class="text-clight footerhover">chi sono</a>
                     </div>
 
                     <div class="col-6 col-md-3 col-lg-6 bg-menu p-0">
-                        <a href="progetti.html" class="text-clight footerhover">progetti</a>
+                        <a href="progetti.html" aria-label="Visita la pagina progetti" class="text-clight footerhover">progetti</a>
                     </div>
 
                     <div class="col-6 col-md-3 col-lg-6 bg-menu p-0">
-                        <a href="contatti.html" class="text-clight footerhover">contatti</a>
+                        <a href="contatti.html" aria-label="Visita la pagina contatti" class="text-clight footerhover">contatti</a>
                     </div>
                 </div>
             </div>
         </div>
 
         <div class=""text-center text-clight p-0">
-            <a href="https://www.iubenda.com/privacy-policy/33905104" class="iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe text-clight text-decoration-underline" title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
-            <a href="https://www.iubenda.com/privacy-policy/33905104/cookie-policy" class="iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe text-clight text-decoration-underline" title="Cookie Policy ">Cookie Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        
+            <a href="https://www.iubenda.com/privacy-policy/33905104" class="iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe text-clight text-decoration-underline" title="Privacy Policy " aria-label="Visita la pagina dedicata alle privacy policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+            <a href="https://www.iubenda.com/privacy-policy/33905104/cookie-policy" class="iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe text-clight text-decoration-underline" title="Cookie Policy " aria-label="Visita la pagina dedicata alle cookie policy">Cookie Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        
         </div>
 
         <h6 class="text-clight col-12 alternative-font min-width mt-3">© 2025 - Sara Rodigari - Tutti i diritti riservati</h6>

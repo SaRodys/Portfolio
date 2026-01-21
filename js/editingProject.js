@@ -23,7 +23,7 @@ function renderEditingStrategy(items) {
   regiaBox.innerHTML = items.map((item) => `   
     <div class="row align-items-center mt-4 border-box rounded-4 p-4 mb-5">
       <h2>${item.title}</h2> 
-      <a href="${item.link}" class="col-12 col-lg-6 copertina-video">
+      <a href="${item.link}" aria-label="Visita il file video su google drive" class="col-12 col-lg-6 copertina-video">
         <button class="border-0 play text-center"><img src="./src/play.png" alt="bottone play" class="play rounded-circle p-2"></button>
         <img src=${item.copertina} alt="copertina ${item.title}" width="100%">
       </a>

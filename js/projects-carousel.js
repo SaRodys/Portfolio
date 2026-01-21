@@ -39,7 +39,7 @@ projects.forEach((project, index) => {
   carouselInner.innerHTML += `
     <div class="carousel-item ${index === 0 ? "active" : ""}">
 
-    <a href="progetti.html${project.link}">
+    <a href="progetti.html${project.link}" aria-label="Visita la pagina dedicata al progetto ${project.title}">
       <div class="row align-items-center justify-content-center">
         <div class="col-lg-1 ml-lg-2 d-md-none"></div>
 
